@@ -1,6 +1,4 @@
-//Assignment 2
-//COMP2406
-//Radu Molea (100992298)
+Author: Radu Molea
 
 To set-up and run the app:
 1)Start the server with >node app.js
@@ -10,4 +8,4 @@ To set-up and run the app:
 +developed on OS: Windows10
 +tested on browser: Chrome
 
--Some code has been sourced from tutorial 7.
+-Some code has been sourced from class notes.
